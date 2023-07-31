@@ -31,6 +31,11 @@ I utilized the following resources:
 * GitLab: UofM-VIRT-DATA-PT-06-2023-U-LOLC
     * https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-06-2023-U-LOLC
 
+* Pandas Documentation
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.merge_ordered.html#pandas.merge_ordered
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
+
 * General Reference:
     
 * Troubleshooting Errors
