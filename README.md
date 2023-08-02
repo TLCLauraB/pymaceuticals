@@ -37,6 +37,7 @@ I utilized the following resources:
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
 
 * General Reference:
+    https://www.mathworks.com/help/matlab/creating_plots/specify-plot-colors.html
     
 * Troubleshooting Errors
 
