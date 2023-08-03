@@ -9,16 +9,9 @@ I received help and support from my fellow Data Vis classmates via our Discord S
 
 I rewatched several of the classes from Module 5 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 5 Instructor Demos provided through GitLab.
 
-
-
-
-
 What are:<br />
 `# Test for Success`
 These are milestone tests I use to make sure the functions I am building preform as desired before incorporating into the whole of the code.
-
-`# DEBUGGING`
-When something would break, I would go back and run alternative methods of a section until I found a solution that matched the example.
 
 I utilized the following resources:
 
@@ -31,15 +24,28 @@ I utilized the following resources:
 * GitLab: UofM-VIRT-DATA-PT-06-2023-U-LOLC
     * https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-DATA-PT-06-2023-U-LOLC
 
+
 * Pandas Documentation
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
     * https://pandas.pydata.org/docs/reference/api/pandas.merge_ordered.html#pandas.merge_ordered
     * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html
+    * https://pandas.pydata.org/docs/reference/api/pandas.Series.isin.html#pandas.Series.isin
+
 
 * General Reference:
-    https://www.mathworks.com/help/matlab/creating_plots/specify-plot-colors.html
+    * https://www.mathworks.com/help/matlab/creating_plots/specify-plot-colors.html
+    * https://www.geeksforgeeks.org/python-pandas-index-tolist/
+    * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
+    * https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html#sphx-glr-gallery-statistics-boxplot-demo-py
+    * https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html
+
     
-* Troubleshooting Errors
+* YouTube Videos
+    * https://youtu.be/RxvozehYAGs
+    * https://youtu.be/BE8CVGJuftI
+    * https://youtu.be/TRNaMGkdn-A
+
 
 
 
