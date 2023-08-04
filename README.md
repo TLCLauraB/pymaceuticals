@@ -1,5 +1,5 @@
 # pymaceuticals
-# Homework Repo for Challenge 4
+# Homework Repo for Challenge 5
 
 ## Author: Laura Bishop
 
@@ -11,7 +11,7 @@ I rewatched several of the classes from Module 5 using the Zoom recordings found
 
 What are:<br />
 `# Test for Success`
-These are milestone tests I use to make sure the functions I am building preform as desired before incorporating into the whole of the code.
+These are milestone tests I use to make sure the functions I am building perform as desired before incorporating into the whole of the code.
 
 I utilized the following resources:
 
